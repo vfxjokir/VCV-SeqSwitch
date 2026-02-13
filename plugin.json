@@ -1,0 +1,23 @@
+{
+  "slug": "SeqSwitch",
+  "name": "SeqSwitch",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "CherryTree",
+  "author": "Josh Kirschenbaum",
+  "authorEmail": "vfxjokir@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+      {
+      "slug": "SeqSwitch",
+      "name": "SeqSwitch",
+      "description": "sequential switch work",
+      "tags": []
+      }
+  ]
+}
